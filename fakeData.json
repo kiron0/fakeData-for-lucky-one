@@ -1,6 +1,6 @@
 [
     {
-        "image": "https://raw.githubusercontent.com/kiron0/fakeData/main/images/jhankarmahbub.jpg",
+        "image": "https://raw.githubusercontent.com/kiron0/fakeData-for-lucky-one/main/images/jhankarmahbub.jpg",
         "id": 1,
         "course_name": "MERN Stack Development",
         "duration": "6 Month",
@@ -9,7 +9,7 @@
         "rate": 4.8
     },
     {
-        "image": "https://raw.githubusercontent.com/kiron0/fakeData/main/images/sumit.jpg",
+        "image": "https://raw.githubusercontent.com/kiron0/fakeData-for-lucky-one/main/images/sumit.jpg",
         "id": 2,
         "course_name": "Full Stack Development",
         "duration": "8 Month",
@@ -18,7 +18,7 @@
         "rate": 4.7
     },
     {
-        "image": "https://raw.githubusercontent.com/kiron0/fakeData/main/images/hasin.jpg",
+        "image": "https://raw.githubusercontent.com/kiron0/fakeData-for-lucky-one/main/images/hasin.jpg",
         "id": 3,
         "course_name": "JavaScript for Beginning",
         "duration": "2.5 Month",
@@ -27,7 +27,7 @@
         "rate": 4.6
     },
     {
-        "image": "https://raw.githubusercontent.com/kiron0/fakeData/main/images/moshiur.jpg",
+        "image": "https://raw.githubusercontent.com/kiron0/fakeData-for-lucky-one/main/images/moshiur.jpg",
         "id": 4,
         "course_name": "WordPress Development",
         "duration": "6 Month",
@@ -36,7 +36,7 @@
         "rate": 4.8
     },
     {
-        "image": "https://raw.githubusercontent.com/kiron0/fakeData/main/images/anisul.jpg",
+        "image": "https://raw.githubusercontent.com/kiron0/fakeData-for-lucky-one/main/images/anisul.jpg",
         "id": 5,
         "course_name": "Full Stack Development",
         "duration": "8 Month",
@@ -45,7 +45,7 @@
         "rate": 4.9
     },
     {
-        "image": "https://raw.githubusercontent.com/kiron0/fakeData/main/images/anisur.jpg",
+        "image": "https://raw.githubusercontent.com/kiron0/fakeData-for-lucky-one/main/images/anisur.jpg",
         "id": 6,
         "course_name": "Graphics Design",
         "duration": "4 Month",
@@ -54,7 +54,7 @@
         "rate": 4.7
     },
     {
-        "image": "https://raw.githubusercontent.com/kiron0/fakeData/main/images/sujon.png",
+        "image": "https://raw.githubusercontent.com/kiron0/fakeData-for-lucky-one/main/images/sujon.png",
         "id": 7,
         "course_name": "WordPress Development",
         "duration": "4 Month",
@@ -63,7 +63,7 @@
         "rate": 4.5
     },
     {
-        "image": "https://raw.githubusercontent.com/kiron0/fakeData/main/images/mosh.jpg",
+        "image": "https://raw.githubusercontent.com/kiron0/fakeData-for-lucky-one/main/images/mosh.jpg",
         "id": 8,
         "course_name": "Software Development",
         "duration": "6 Month",
@@ -72,7 +72,7 @@
         "rate": 4.7
     },
     {
-        "image": "https://raw.githubusercontent.com/kiron0/fakeData/main/images/angela.jpg",
+        "image": "https://raw.githubusercontent.com/kiron0/fakeData-for-lucky-one/main/images/angela.jpg",
         "id": 9,
         "course_name": "Application Development",
         "duration": "7 Month",
@@ -81,7 +81,7 @@
         "rate": 4.9
     },
     {
-        "image": "https://raw.githubusercontent.com/kiron0/fakeData/main/images/ed.jpg",
+        "image": "https://raw.githubusercontent.com/kiron0/fakeData-for-lucky-one/main/images/ed.jpg",
         "id": 10,
         "course_name": "Web Development",
         "duration": "12 Month",
@@ -90,7 +90,7 @@
         "rate": 4.6
     },
     {
-        "image": "https://raw.githubusercontent.com/kiron0/fakeData/main/images/sara.jpg",
+        "image": "https://raw.githubusercontent.com/kiron0/fakeData-for-lucky-one/main/images/sara.jpg",
         "id": 11,
         "course_name": "Frontend UI Development",
         "duration": "11 Month",
@@ -99,7 +99,7 @@
         "rate": 4.7
     },
     {
-        "image": "https://raw.githubusercontent.com/kiron0/fakeData/main/images/sarah.jpg",
+        "image": "https://raw.githubusercontent.com/kiron0/fakeData-for-lucky-one/main/images/sarah.jpg",
         "id": 12,
         "course_name": "UI Design",
         "duration": "12 Month",
