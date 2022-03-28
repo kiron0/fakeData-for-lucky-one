@@ -6,7 +6,8 @@
         "duration": "6 Month",
         "price": 550,
         "instructor": "Jhankar Mahbub",
-        "rate": 4.8
+        "rate": 4.8,
+        "quantity": 0
     },
     {
         "image": "https://raw.githubusercontent.com/kiron0/fakeData-for-lucky-one/main/images/sumit.jpg",
@@ -15,7 +16,8 @@
         "duration": "8 Month",
         "price": 750,
         "instructor": "Sumit Saha",
-        "rate": 4.7
+        "rate": 4.7,
+        "quantity": 0
     },
     {
         "image": "https://raw.githubusercontent.com/kiron0/fakeData-for-lucky-one/main/images/hasin.jpg",
@@ -24,7 +26,8 @@
         "duration": "2.5 Month",
         "price": 200,
         "instructor": "Hasin Hayder",
-        "rate": 4.6
+        "rate": 4.6,
+        "quantity": 0
     },
     {
         "image": "https://raw.githubusercontent.com/kiron0/fakeData-for-lucky-one/main/images/moshiur.jpg",
@@ -33,7 +36,8 @@
         "duration": "6 Month",
         "price": 100,
         "instructor": "Moshiur Rahman",
-        "rate": 4.8
+        "rate": 4.8,
+        "quantity": 0
     },
     {
         "image": "https://raw.githubusercontent.com/kiron0/fakeData-for-lucky-one/main/images/anisul.jpg",
@@ -42,7 +46,8 @@
         "duration": "8 Month",
         "price": 110,
         "instructor": "Anisul Islam",
-        "rate": 4.9
+        "rate": 4.9,
+        "quantity": 0
     },
     {
         "image": "https://raw.githubusercontent.com/kiron0/fakeData-for-lucky-one/main/images/anisur.jpg",
@@ -51,7 +56,8 @@
         "duration": "4 Month",
         "price": 150,
         "instructor": "Anisur Rahman",
-        "rate": 4.7
+        "rate": 4.7,
+        "quantity": 0
     },
     {
         "image": "https://raw.githubusercontent.com/kiron0/fakeData-for-lucky-one/main/images/sujon.png",
@@ -60,7 +66,8 @@
         "duration": "4 Month",
         "price": 120,
         "instructor": "Md. Sujon",
-        "rate": 4.5
+        "rate": 4.5,
+        "quantity": 0
     },
     {
         "image": "https://raw.githubusercontent.com/kiron0/fakeData-for-lucky-one/main/images/mosh.jpg",
@@ -69,7 +76,8 @@
         "duration": "6 Month",
         "price": 330,
         "instructor": "Mosh Hamedani",
-        "rate": 4.7
+        "rate": 4.7,
+        "quantity": 0
     },
     {
         "image": "https://raw.githubusercontent.com/kiron0/fakeData-for-lucky-one/main/images/angela.jpg",
@@ -78,7 +86,8 @@
         "duration": "7 Month",
         "price": 600,
         "instructor": "Angela Yu",
-        "rate": 4.9
+        "rate": 4.9,
+        "quantity": 0
     },
     {
         "image": "https://raw.githubusercontent.com/kiron0/fakeData-for-lucky-one/main/images/ed.jpg",
@@ -87,7 +96,8 @@
         "duration": "12 Month",
         "price": 400,
         "instructor": "Dev Ed",
-        "rate": 4.6
+        "rate": 4.6,
+        "quantity": 0
     },
     {
         "image": "https://raw.githubusercontent.com/kiron0/fakeData-for-lucky-one/main/images/sara.jpg",
@@ -96,7 +106,8 @@
         "duration": "11 Month",
         "price": 950,
         "instructor": "Sara Soueidan",
-        "rate": 4.7
+        "rate": 4.7,
+        "quantity": 0
     },
     {
         "image": "https://raw.githubusercontent.com/kiron0/fakeData-for-lucky-one/main/images/sarah.jpg",
@@ -105,6 +116,7 @@
         "duration": "12 Month",
         "price": 800,
         "instructor": "Sarah Parmenter",
-        "rate": 4.9
+        "rate": 4.9,
+        "quantity": 0
     }
 ]
